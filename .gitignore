@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+app_test_2803-main/data/
+worker_ai-main/data/
